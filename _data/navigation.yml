@@ -8,26 +8,41 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  #- title: "Publications"
+    #url: /publications/
+
+  #- title: "Talks"
+    #url: /talks/    
+
+  #- title: "Teaching"
+   # url: /teaching/    
+
   - title: "Publications"
-    url: /publications/
+  #url: /publications/
+    url: https://scholar.google.com/citations?user=7HDMJacAAAAJ&hl=pt-BR&oi=ao
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Lattes"
+  #url: /publications/
+    url: http://lattes.cnpq.br/0607282523645907
+  
+  - title: "Potifolio (Floresta - Zenodo Communities)"
+    url: https://zenodo.org/communities/floresta/records?q=&l=list&p=1&s=10&sort=newest
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Potifolio (TREES - Zenodo Communities)"
+    url: https://zenodo.org/communities/treeslab/records?q=&l=list&p=1&s=10&sort=newest
+
+ 
+
+
         
-  - title: "Blog Posts"
-    url: /year-archive/
+ # - title: "Blog Posts"
+ #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+ # - title: "CV"
+ #  url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
