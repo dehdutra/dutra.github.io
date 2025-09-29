@@ -27,9 +27,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Remote Sensing| Environmental Modeling| Wildfire"
   location         : "São José dos Campos, Brazil"
-  employer         : "National Institute for Space Research (INPE)"
+  employer         : "INPE"
   uri              : # URL
-  email            : #"none@example.org" 
+  email            : "ddutra.ambiental@gmail.com" 
 
   # Academic websites
   laboratory       : "https://www.treeslab.org"
@@ -37,7 +37,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=7HDMJacAAAAJ&hl=pt-BR&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-3748-5622"
   semantic         : # URL
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Debora-Dutra-3"
