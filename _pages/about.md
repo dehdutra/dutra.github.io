@@ -11,7 +11,7 @@ redirect_from:
 - 🎓 PhD candidate in Remote Sensing at INPE.
 - 🌱 My research focuses on wildfires, forest fires, and Amazon degradation using remote sensing and time series analysis.
 - 🛰️ Interests: climate change, environmental monitoring, geospatial data analysis, and open science.
-- 🌳 Member of [TREES Lab](https://zenodo.org/communities/treeslab/records?q=&l=list&p=1&s=10&sort=newest)
+- 🌳 Member of [TREES Lab](https://www.treeslab.org)
 
 ---
 
