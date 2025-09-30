@@ -20,7 +20,7 @@ redirect_from:
 **Academic background:**  
 - Bachelor’s in Environmental and Sanitary Engineering (CEFET-MG)
 - Master’s in Environmental Systems Analysis and Modeling (UFMG)
-- Currently pursuing a PhD in Remote Sensing at INPE
+- PhD candidate in Remote Sensing (INPE)
 
 **Collaborations:**  
 - Participation in projects at TREES Lab, CEMADEN, IPAM  
