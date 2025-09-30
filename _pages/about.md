@@ -7,11 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-# 👋 Hi, I’m Débora!
+👋 Hi, I’m Débora!
 
-**🎓 PhD student in Remote Sensing at INPE, supported by a CAPES scholarship.**  
-**🌱 My research focuses on wildfires, forest fires, and Amazon degradation using remote sensing and time series analysis.**  
-**🛰️ Interests:** climate change, environmental monitoring, geospatial data analysis, and open science.
+🎓 PhD candidate in Remote Sensing at INPE.
+🌱 My research focuses on wildfires, forest fires, and Amazon degradation using remote sensing and time series analysis.
+🛰️ Interests: climate change, environmental monitoring, geospatial data analysis, and open science.
+🌳 Member of [TREES Lab](https://zenodo.org/communities/treeslab/records?q=&l=list&p=1&s=10&sort=newest)
 
 ---
 
@@ -45,5 +46,5 @@ Open to partnerships in areas such as:
 
 ## 📂 Learn More
 
-To learn more about my projects and research lines, you can visit my [laboratory page]([#](https://zenodo.org/communities/treeslab/records?q=&l=list&p=1&s=10&sort=newest)) and my [research page](https://scholar.google.com/citations?user=7HDMJacAAAAJ&hl=pt-BR&oi=ao).
+To learn more about my projects and research lines, you can visit my [laboratory page](https://zenodo.org/communities/treeslab/records?q=&l=list&p=1&s=10&sort=newest) and my [research page](https://scholar.google.com/citations?user=7HDMJacAAAAJ&hl=pt-BR&oi=ao).
 
