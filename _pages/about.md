@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: "Hello there, I'm Débora"
+title: "👋 Hi, I’m Débora!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-👋 Hi, I’m Débora!
-
+## 🧭 About me
 - 🎓 PhD candidate in Remote Sensing at INPE.
 - 🌱 My research focuses on wildfires, forest fires, and Amazon degradation using remote sensing and time series analysis.
 - 🛰️ Interests: climate change, environmental monitoring, geospatial data analysis, and open science.
