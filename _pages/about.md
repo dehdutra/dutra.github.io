@@ -18,9 +18,9 @@ redirect_from:
 ## 🔎 Selected Experience
 
 **Academic background:**  
-- Bachelor’s in Environmental Engineering (CEFET-MG)  
-- Master’s in Geography (UFMG)  
-- Currently pursuing a PhD at INPE  
+- Bachelor’s in Environmental and Sanitary Engineering (CEFET-MG)
+- Master’s in Environmental Systems Analysis and Modeling (UFMG)
+- Currently pursuing a PhD in Remote Sensing at INPE
 
 **Collaborations:**  
 - Participation in projects at TREES Lab, CEMADEN, IPAM  
