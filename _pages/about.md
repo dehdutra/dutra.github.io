@@ -18,7 +18,7 @@ redirect_from:
 ## 🔎 Selected Experience
 
 **Academic background:**  
-- Bachelor’s in Environmental and Sanitary Engineering (CEFET-MG)
+- Bachelor’s in Environmental and Sanitarist Engineering (CEFET-MG)
 - Master’s in Analysis and Modeling of Environmental Systems (UFMG)
 - PhD candidate in Remote Sensing (INPE)
 
