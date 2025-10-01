@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "captura.png"
   name             : "Débora Dutra"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Remote Sensing| Environmental Modeling| Wildfire"
   location         : "São José dos Campos, Brazil"
   employer         : "INPE"
@@ -55,7 +55,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  bluesky          : "dehdutra" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
