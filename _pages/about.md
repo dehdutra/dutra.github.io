@@ -19,7 +19,7 @@ redirect_from:
 
 **Academic background:**  
 - Bachelor’s in Environmental and Sanitary Engineering (CEFET-MG)
-- Master’s in Environmental Systems Analysis and Modeling (UFMG)
+- Master’s in Analysis and Modeling of Environmental Systems (UFMG)
 - PhD candidate in Remote Sensing (INPE)
 
 **Collaborations:**  
@@ -45,5 +45,5 @@ Open to partnerships in areas such as:
 
 ## 📂 Learn More
 
-To learn more about my projects and research lines, you can visit my [laboratory page](https://zenodo.org/communities/treeslab/records?q=&l=list&p=1&s=10&sort=newest) and my [research page](https://scholar.google.com/citations?user=7HDMJacAAAAJ&hl=pt-BR&oi=ao).
+To learn more about my projects and research lines, you can visit the [laboratory page](https://zenodo.org/communities/treeslab/records?q=&l=list&p=1&s=10&sort=newest) and my [research page](https://scholar.google.com/citations?user=7HDMJacAAAAJ&hl=pt-BR&oi=ao).
 
